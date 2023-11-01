@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cat001",
+    "name": "Mobile Phone",
+    "fileName": "mobile_phone.json",
+    "iconName": "icon001.png",
+    "count": 51
+  },
+  {
+    "id": "cat002",
+    "name": "Youtube Extensions",
+    "fileName": "youtube_extensions.json",
+    "iconName": "icon002.png",
+    "count": 16,
+    "credit": "https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297"
+  },
+  {
+    "id": "cat003",
+    "name": "Time Management",
+    "fileName": "time_management.json",
+    "iconName": "icon003.png",
+    "count": 55
+  },
+  {
+    "id": "cat004",
+    "name": "Productivity",
+    "fileName": "productivity.json",
+    "iconName": "productivity_icon.png",
+    "count": 60,
+    "credit" : "https://www.simplilearn.com/best-productivity-hacks-to-get-more-done-article"
+  },
+  {
+    "id": "cat005",
+    "name": "Health and Wellness",
+    "fileName": "health_wellness.json",
+    "iconName": "health_icon.png",
+    "count": 70
+  },
+  {
+    "id": "cat006",
+    "name": "Professional Life",
+    "fileName": "professional_life.json",
+    "iconName": "organization_icon.png",
+    "count": 32
+  }
+]

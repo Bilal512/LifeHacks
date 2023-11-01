@@ -1,0 +1,50 @@
+[
+  {
+    "data": "<b>YouTube Enhancer</b><br>If you want to install just one extension, <a href='https://www.mrfdev.com/enhancer-for-youtube'>YouTube Enhancer</a> should be your pick. It blocks ads, boosts the volume for all videos, and lets you pick a different default video quality, frame rate, and codec. This extension is available for Chrome, Firefox, Safari, and Opera."
+  },
+  {
+    "data": "<b>Volume Master</b><br>If your only YouTube problems are related to volume, you should try <a href='https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke'>Volume Master</a> on Chrome. This extension lets you boost the volume up to 600%, and allows you to set a different volume level for each tab in the browser. If you’re on Firefox, try <a href='https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume'>600% Sound Volume</a> instead."
+  },
+  {
+    "data": "<b>Clickbait Remover</b><br>If you’re tired of your favorite YouTubers making shocked faces for their thumbnails, install <a href='https://github.com/pietervanheijningen/clickbait-remover-for-youtube'>Clickbait Remover</a>. It replaces thumbnails with actual screenshots from the videos, which makes YouTube a lot less annoying."
+  },
+  {
+    "data": "<b>Full Youtube Titles</b><br>You can check out <a href='https://chrome.google.com/webstore/detail/youtube-full-title-for-vi/pgpdaocammeipkkgaeelifgakbhjoiel/'>YouTube Full Title for Videos</a>: This extension shows you the complete headline for all videos on the site, removing truncated headlines making it easier to see if the video is worth watching."
+  },
+  {
+    "data": "<b><a href='https://unhook.app/'>Unhook</a></b><br>Unhook is a great extension to clean up your YouTube feed. It removes recommended videos, YouTube Shorts, live chat, comments, and any other elements you don’t like. It’s the best way to stop <a href='https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994'>YouTube’s algorithm</a> from influencing what you watch."
+  },
+  {
+    "data": "<b>uBlock Origin</b><br><a href='https://ublockorigin.com/'>uBlock</a> Origin is the best extension for blocking ads on YouTube. It sports many <a href='https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058'>advanced features</a> to make browsing YouTube more private, like blocking cookie banners, malware domains, and removing tracking from URLs."
+  },
+  {
+    "data": "<b>SponsorBlock</b><br><a href='https://sponsor.ajay.app/'>SponsorBlock</a> automatically skips ad reads inside videos. The next time your favorite YouTuber tries to promote random products or services, you won’t even know it. Ideally, you should pair SponsorBlock with uBlock Origin for complete ad-blocking on YouTube."
+  },
+  {
+    "data": "<b>Vinegar</b><br><a href='https://apps.apple.com/app/vinegar-tube-cleaner/id1591303229'>SponsorBlock</a> ($1.99) is among the best Safari extensions you can download. It forces YouTube to play in an HTML 5 player, which means you can <a href='https://lifehacker.com/this-extension-lets-you-finally-play-youtube-in-the-bac-1848143437'>play videos in the background for free</a>. It blocks YouTube ads, too."
+  },
+  {
+    "data": "<b>Glarity</b><br>If you don’t have time to watch a long video to get the information you need, you can use <a href='https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347'>an AI YouTube summarizer</a> such as <a href='https://glarity.app/'>Glarity</a> to generate a quick description. It works best for videos that are five to 15 minutes long, and makes it easy to skim through these videos much faster than you otherwise would."
+  },
+  {
+    "data": "<b>Wisdolia</b><br><a href='https://www.wisdolia.com/'>Wisdolia</a> is great for anyone that uses YouTube to learn, as it creates flash cards from any video. No need to watch a video all the way through and come up with flashcards by hand: Wisdolia can do it for you."
+  },
+  {
+    "data": "<b>Paradify</b><br>YouTube is great at surfacing new music. If you find something you like, you can quickly add it to Spotify by using <a href='https://chrome.google.com/webstore/detail/paradify-youtube-to-spoti/bocdilfmhiggklhdifohjfghbdncgele'>Paradify</a>. This extension links to Spotify, finds the song on the music streaming service, and saves it to your account."
+  },
+  {
+    "data": "<b>Video Speed Controller</b><br><a href='https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk'>Video Speed Controller</a> is a Chrome extension that makes it easier to speed up or slow down YouTube videos. Its keyboard shortcuts let you control video speed, going beyond YouTube’s default 2x speed limit. Better yet, this extension works with HTML 5 videos on other websites, too, so you can use it just about everywhere."
+  },
+  {
+    "data": "<b>Video Screenshot</b><br>When you need a screenshot from videos on YouTube or other streaming sites, try <a href='https://chrome.google.com/webstore/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial'>Video Screenshot</a>. It’s much better than using your Mac or PC’s built-in screenshot tools, and you can choose between JPG and PNG image formats for your end result."
+  },
+  {
+    "data": "<b>Bookmark It</b><br>Although YouTube has its own Watch Later feature that allows you to save videos, <a href='https://bookmark-it.happydevelopers.co/'>Bookmark It</a> goes one step further. This extension lets you drop a bookmark at any given timestamp inside a video. That way, you can play bookmarked videos from that timestamp and easily find the information you need. You just have to press B on the keyboard to add a bookmark to YouTube videos, which makes the extension pretty intuitive"
+  },
+  {
+    "data": "<b>RoundedTube</b><br><a href='https://pitr.dev/project/roundedtube'>RoundedTube</a> has a simple mission: to add rounded corners to video thumbnails and make the site look more modern. Anyone bored with the standard YouTube look should be inclined to give this extension a shot."
+  },
+  {
+    "data": "<b>Return YouTube Dislike</b><br>In a controversial move ,YouTube removed its dislike counter from every video. If you don’t like a video, you can still dislike it, but you can’t see how many people have disliked it, too. <a href='https://returnyoutubedislike.com/install'>Return YouTube Dislike</a> gives you a good estimate of this data, if you really want to see it. This data isn’t 100% accurate, but it’s close enough to be useful most of the time."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655728222843",
+    "project_id": "lifehacks-hub",
+    "storage_bucket": "lifehacks-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655728222843:android:6c049173084ab42becb8de",
+        "android_client_info": {
+          "package_name": "com.simbaone.lifehacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHobif__0sJftiDRngvimBeQ3O4_XP69A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
